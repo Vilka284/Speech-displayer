@@ -1,2 +1,2 @@
 # Speech-displayer
-First project, please don't look here :)
+First project, I was young and stupid :)
